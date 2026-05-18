@@ -16,7 +16,7 @@ In my free time, I enjoy exploring new technologies, building side projects, and
 ### Tech & Tools
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,astro,nodejs,express,supabase,firebase,mongodb,postgres,docker,redux,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,astro,nodejs,express,supabase,firebase,mongodb,postgres,redux,git" />
 </p>
 
 ### GitHub Stats
