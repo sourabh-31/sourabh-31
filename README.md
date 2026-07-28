@@ -19,14 +19,6 @@ In my free time, I enjoy exploring new technologies, building side projects, and
     <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,astro,nodejs,express,supabase,firebase,mongodb,postgres,redux,git" />
 </p>
 
-### GitHub Stats
-
-<p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh-31&theme=tokyonight&hide_border=true" width="420">
-</p>
-
-<br/>
-
 ### Connect With Me
 
 <p align="left">
