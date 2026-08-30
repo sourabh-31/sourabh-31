@@ -2,7 +2,7 @@
 
 I’m a full stack developer building web and mobile applications with a strong focus on modern frontend experiences, scalable systems, and clean UI.
 
-In my free time, I enjoy exploring new technologies, building side projects, and experimenting with interactive interfaces.
+In my free time, I enjoy exploring new technologies, building side projects, and experimenting something cool.
 
 ### Current Focus
 
